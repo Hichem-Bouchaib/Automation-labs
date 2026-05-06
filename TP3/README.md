@@ -77,4 +77,4 @@ La première fois, une fenêtre Google s'ouvre dans le navigateur. Une fois auto
 
 ## Sécurité
 
-`.env`, `credentials.json` et `token.json` sont exclus du repo via `.gitignore`. Ne jamais les commiter.
+`.env`, `credentials.json` et `token.json` sont exclus du repo via `.gitignore`.
